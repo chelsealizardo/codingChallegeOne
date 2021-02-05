@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 
 ### :lab_coat: *My research* :lab_coat:
-<font size=".01"> I am currently working with Dr. Cardace and the RI NASA Space Grant Consortium to look at Serpentinization and its astrobiological implications especially on Mars. We have been using polished samples from San Juan, PR to analyze and identify vein minerals such as serpentine, magnetite, brucite, chlorite, and gather an understanding of the differences, if there are any, of how the process of serpentinization affects the veins vs. the affects on regular rock. I am also trying to gather a deeper understanding of how the processes that occurred on these samples may reflect processes happening on other planetary bodies such as mars, and what that could mean for the astrobiology of other planetary bodies, which could potentially lead to questions about habitability. </font>
+<font size=".01"> I am currently working with Dr. Cardace and the RI NASA Space Grant Consortium to look at Serpentinization and its astrobiological implications especially on Mars. We have been using polished samples from San Juan, PR to analyze and identify vein minerals such as serpentine, magnetite, brucite, and chlorite, to gather an understanding of the differences, if there are any, of how the process of serpentinization affects the veins vs. the affects on regular rock. I am also trying to gather a deeper understanding of how the processes that occurred on these samples may reflect processes happening on other planetary bodies such as mars, and what that could mean for the astrobiology of other planetary bodies, which could potentially lead to questions about habitability. </font>
 
  ______________________________________________________________________________________________________________________________________________________________________________
  
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 * Learning how to create watershed models.
 * Learning how to use GIS without needing a ton of guidance from a professor or mentor.
 * Work on making the Geology club more fun and accessible during the pandemic/quarantine (I am the president of the Geology club at the University of Rhode Island).
-* Work on keeping myself organized and ahead of my assignments this semester and allow myself adequate tiem to finish everyhting and ask the relevant questions that nee dto be asked in class.
+* Work on keeping myself organized and ahead of my assignments this semester and allow myself adequate time to finish everyhting and ask the relevant questions that need to be asked in class.
 * Broaden my cooking skills to diversify my pallete to make healthy and delicious meals.
  
  ______________________________________________________________________________________________________________________________________________________________________________
