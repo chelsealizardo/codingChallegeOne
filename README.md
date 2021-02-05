@@ -1,4 +1,5 @@
-# **Hi, I'm Chelsea Lizardo** :smile:
+
+## <div align="center"> **Hi, I'm Chelsea Lizardo** :smile: </div>
 
 <p align="center"> 
  <img src="https://user-images.githubusercontent.com/74572380/107051358-5e522b80-679a-11eb-8dbc-06a7b90943a6.jpg" alt="hi" width="300" height="400"> </p>
@@ -41,7 +42,7 @@ ________________________________________________________________________________
  #### Thanks! You can contact me at:
  * [Linkedin](https://www.linkedin.com/in/chelsea-lizardo-267667153/)
  
- * [Email](<a href = "mailto: chelsea_lizardo@uri.edu">Send Email</a>)
+ * (<a href = "mailto: chelsea_lizardo@uri.edu">Send Email</a>)
  
  * [Brightspace](https://brightspace.uri.edu/d2l/le/133064/discussions/List)
 
